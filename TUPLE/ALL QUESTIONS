@@ -1,0 +1,50 @@
+1. How do you create an empty tuple?
+2. Create a tuple containing the numbers 1, 2, 3.
+3. Access the second element of a tuple.
+4. Concatenate two tuples: (1, 2, 3) and (4, 5).
+5. Check if an element is present in a tuple.
+6. Create a new tuple by repeating an existing tuple three times.
+7. Find the length of a tuple.
+8. Iterate through all elements of a tuple using a for loop.
+9. Convert a list into a tuple.
+10. Create a tuple of even numbers from 2 to 10 using a loop.
+11. Create a tuple using tuple comprehension that contains the squares of numbers from 1 to 5.
+12. Create a nested tuple with three elements: ((1, 2), (3, 4), (5, 6)).
+13. Access the third element of the second tuple in the nested tuple from question 12.
+14. Check if all elements in a tuple are positive using a loop.
+15. Find the index of a specific element in a tuple.
+16. Convert a tuple into a list.
+17. Create a new tuple with elements reversed from an existing tuple.
+18. Create a tuple of strings and sort it in lexicographic order.
+19. Find the maximum and minimum values in a tuple of numbers.
+20. Convert a string into a tuple of characters.
+21. Check if a tuple is empty using the if statement.
+22. Create a new tuple that contains elements from two tuples in pairs.
+23. Check if two tuples are equal element-wise.
+24. Create a new tuple by excluding the last two elements from an existing tuple.
+25. Create a tuple of numbers and calculate the sum using a loop.
+26. Merge two tuples and remove any duplicates.
+27. Find the frequency of a specific element in a tuple.
+28. Create a tuple of integers and find the product of all elements.
+29. Check if a specific element is not present in a tuple.
+30. Create a tuple of numbers and find the average using a loop.
+31. Convert a list of tuples into a list of their first elements.
+32. Create a tuple with the elements of a list in reverse order.
+33. Find the common elements between two tuples.
+34. Create a tuple of mixed data types and access the second element.
+35. Convert a tuple into a set.
+36. Create a tuple of numbers and find the largest odd number using a loop.
+37. Concatenate two tuples and create a new tuple.
+38. Create a tuple of tuples where each tuple has two elements: a number and its square.
+39. Check if all elements in a tuple are unique.
+40. Convert a tuple into a dictionary where each element becomes a key-value pair.
+41. Create a tuple of strings and capitalize all elements using a loop.
+42. Find the index of the last occurrence of a specific element in a tuple.
+43. Create a new tuple of numbers by multiplying corresponding elements of two tuples.
+44. Convert a list of strings into a tuple of uppercase strings using a loop.
+45. Find the difference between two tuples and create a new tuple.
+46. Create a tuple with the elements of a string in reverse order.
+47. Find the index of the smallest element in a tuple of numbers.
+48. Check if all elements in a tuple are even using a loop.
+49. Convert a dictionary into a tuple of key-value pairs.
+50. Create a new tuple with elements from two tuples, but remove duplicates.
