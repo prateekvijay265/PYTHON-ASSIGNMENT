@@ -1,0 +1,227 @@
+# If-Else Statements:
+
+1. What is the primary purpose of an if statement in programming?
+
+2. Write an if-else statement to check if a number is positive or negative.
+
+3. Explain the purpose of the elif keyword in an if-else statement.
+
+4. Write an if-elif-else statement to categorize exam grades: "A" for 90+, "B" for 80-89, "C" for 70-79, and "Fail" for <70.
+
+5. What's the difference between the logical AND (and) and logical OR (or) operators?
+
+6. What is the purpose of the not operator in an if statement?
+
+7. How can you simulate a switch statement using if-elif statements?
+
+Break and Continue:
+
+1. What is the purpose of the break statement in loops?
+
+2. Explain the use of the continue statement in loops.
+
+3. How can you use the break statement to exit a loop prematurely?
+
+For Loops:
+
+1. Write a for loop that prints even numbers from 2 to 20.
+
+2. Write a for loop to calculate the factorial of a given number.
+
+3. Explain the use of the range function in a for loop.
+
+4. Write a program that uses a for loop to find the sum of all prime numbers up to a given limit.
+
+While Loops:
+
+1. Write a while loop that prints numbers from 1 to 10.
+
+2. What is an infinite loop? How can you prevent it?
+
+3. Write a program that uses a while loop to calculate the sum of digits of a given number.
+
+4. Explain how the break statement can be used in a while loop.
+
+Nested Loops:
+
+1. Write a program that prints a multiplication table from 1 to 10 using nested loops.
+
+2. Explain the purpose of using nested loops in programming.
+
+3. Write a program that uses nested loops to print a pattern of stars in the shape of a rectangle.
+
+4. How can you prevent an infinite loop when using nested loops?
+
+Loop Control Practice:
+
+1. Write a program that prints the Fibonacci sequence up to a specified limit.
+
+2. Write a program that generates prime numbers up to a specified limit using the Sieve of Eratosthenes algorithm.
+
+3. Write a program that calculates the sum of all multiples of 3 and 5 below 100.
+
+4. Write a program that uses loops to print the following pattern:
+
+    *
+    
+    **
+
+    ***
+
+    ****
+
+5. Write a program that prints a pattern of numbers in a pyramid shape:
+
+    1
+    
+    22
+    
+    333
+    
+    4444
+
+6. Write a program that generates and prints the Collatz sequence for a given positive integer.
+
+7. Write a program that calculates the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
+
+8. Write a program that prompts the user to guess a secret number. Provide hints whether the guess is higher or lower than the secret number.
+
+9. Write a program that prints the sum of all even numbers between two given numbers using a loop.
+
+10.   Write a program that prints the reverse of a given number.
+
+ 11.   Write a program that simulates a simple calculator. The user enters two numbers and an operator (+, -, *, /), and the program displays the result.
+
+ 12.   Write a program that checks if a given string is a palindrome.
+
+ 13.   Write a program that generates and prints the Pascal's triangle up to a specified number of rows.
+
+ 14.   Write a program that calculates the factorial of a given number using recursion.
+
+ 15.   Write a program that generates a random number and asks the user to guess it. Provide feedback on whether the guess is correct.
+
+ 16.   Write a program that generates a list of prime numbers up to a given limit using the Sieve of Eratosthenes algorithm.
+
+ 17.   Write a program that calculates the sum of the squares of all odd numbers between two given numbers.
+
+  18.  Write a program that converts a decimal number to binary using the repeated division by 2 method.
+
+  19.  Write a program that calculates the LCM of two numbers using the formula LCM(a, b) = (a * b) / GCD(a, b).
+
+  20.  Write a program that generates and prints the pattern of a right-angled triangle using a loop.
+
+   21. Write a program that generates and prints the pattern of a diamond using nested loops.
+
+22.  Write a program that simulates a simple ATM machine. Allow users to deposit, withdraw, and check balance.
+
+   23. Write a program that generates and prints the sequence of prime numbers using the Sieve of Eratosthenes algorithm.
+
+   24. Write a program that calculates the factorial of a given number using an iterative approach.
+
+   25. Write a program that generates the Fibonacci sequence up to a specified number using recursion.
+
+   26.  Write a program that calculates the sum of the squares of all even numbers between two given numbers.
+
+   27.  Write a program that generates and prints a list of Armstrong numbers up to a given limit.
+
+   28.  Write a program that generates and prints the pattern of a pyramid using nested loops.
+
+   29. Write a program that calculates the GCD of two numbers using the Euclidean algorithm.
+
+   30. Write a program that calculates the power of a number using a loop.
+
+  31.  Write a program that generates and prints the sequence of perfect numbers up to a given limit.
+
+  32.  Write a program that calculates the sum of a geometric progression with a given first term, common ratio, and number of terms.
+
+  33.  Write a program that generates and prints the pattern of a pyramid with reversed numbers using nested loops.
+
+ 34.   Write a program that calculates the sum of the first N natural numbers using the formula sum = N * (N + 1) / 2.
+
+ 35.   Write a program that generates and prints the sequence of palindrome numbers up to a given limit.
+
+ 36.   Write a program that generates and prints the pattern of a hollow square using nested loops.
+
+ 37.   Write a program that calculates the sum of a series 1 + 1/2 + 1/3 + ... + 1/N.
+
+ 38.   Write a program that generates and prints the sequence of narcissistic numbers up to a given limit.
+
+ 39.   Write a program that calculates the area of a circle using the formula area = pi * r^2.
+
+  40.  Write a program that generates and prints the pattern of a hollow diamond using nested loops.
+
+ 41.   Write a program that calculates the sum of a series 1^2 + 2^2 + 3^2 + ... + N^2.
+
+ 42.   Write a program that generates and prints the sequence of strong numbers up to a given limit.
+
+ 43.   Write a program that calculates the area of a triangle using the formula area = 0.5 * base * height.
+
+  44.  Write a program that generates and prints the pattern of a number pyramid using nested loops.
+  
+  45. Write a program that calculates the sum of a series 1 + 1/3 + 1/5 + ... + 1/N.
+
+   46. Write a program that generates and prints the sequence of abundant numbers up to a given limit.
+
+  47.  Write a program that calculates the volume of a sphere using the formula volume = 4/3 * pi * r^3.
+
+ 48.   Write a program that generates and prints the pattern of a hollow triangle using nested loops.
+
+  49.  Write a program that calculates the sum of a series 1^3 + 2^3 + 3^3 + ... + N^3.
+
+ 50.   Write a program that generates and prints the sequence of happy numbers up to a given limit.
+
+ 51.   Write a program that calculates the volume of a cylinder using the formula volume = pi * r^2 * height.
+
+  52.  Write a program that generates and prints the pattern of a hollow number pyramid using nested loops.
+
+ 53.   Write a program that calculates the sum of a series 1 + 1/4 + 1/7 + ... + 1/N.
+
+ 54.   Write a program that generates and prints the sequence of triangular numbers up to a given limit.
+
+  55.  Write a program that calculates the volume of a cone using the formula volume = 1/3 * pi * r^2 * height.
+
+ 56.   Write a program that generates and prints the pattern of a hollow upside-down pyramid using nested loops.
+
+  57.  Write a program that calculates the sum of a series 1 + 1/5 + 1/9 + ... + 1/N.
+
+  58.  Write a program that generates and prints the sequence of pentagonal numbers up to a given limit.
+
+  59.  Write a program that calculates the volume of a rectangular prism using the formula volume = length * width * height.
+
+ 60.   Write a program that generates and prints the pattern of a hollow upside-down triangle using nested loops.
+
+ 61.   Write a program that calculates the sum of a series 1 + 2/4 + 3/9 + ... + N/N^2.
+
+   62. Write a program that generates and prints the sequence of hexagonal numbers up to a given limit.
+
+  63.  Write a program that calculates the volume of a box using the formula volume = length * width * height.
+
+  64.   Write a program that generates and prints the pattern of a palindrome triangle using nested loops.
+
+  65.  Write a program that calculates the sum of a series 1 + 2^2/2^3 + 3^2/3^4 + ... + N^2/N^3.
+
+  66.  Write a program that generates and prints the sequence of octagonal numbers up to a given limit.
+
+  67.  Write a program that calculates the volume of a pyramid using the formula volume = 1/3 * base_area * height.
+
+  68.  Write a program that generates and prints the pattern of a palindrome diamond using nested loops.
+
+   69. Write a program that calculates the sum of a series 1 + 2^3/2^4 + 3^3/3^5 + ... + N^3/N^5.
+
+  70.  Write a program that generates and prints the sequence of tetrahedral numbers up to a given limit.
+
+   71. Write a program that calculates the volume of a sphere using the formula volume = 4/3 * pi * r^3.
+
+  72.  Write a program that generates and prints the pattern of a palindrome number pyramid using nested loops.
+
+  73. Write a program that calculates the sum of a series 1 + 1/2^2 + 1/3^2 + ... + 1/N^2.
+   
+   74. Write a program that generates and prints the sequence of Fibonacci numbers up to a given limit.
+
+   75. Write a program that calculates the volume of a cylinder using the formula volume = pi * r^2 * height.
+
+   76.  Write a program that generates and prints the pattern of a mirrored right-angled triangle using nested loops.
+
+   77.  Write a program that calculates the sum of a series 1 + 1/2^3 + 1/3^3 + ... + 1/N^3.
+
+   78.  Write a program that generates and prints the sequence of Lucas numbers up to a given limit.
