@@ -1,0 +1,50 @@
+1. How do you create an empty list?
+2. Create a list containing the numbers 1, 2, 3.
+3. How do you access the second element of a list?
+4. What is the length of a list with 7 elements?
+5. Add the number 4 to the end of the list from question 2.
+6. Remove the first element from the list.
+7. How do you check if an element is present in a list?
+8. Create a new list by concatenating two lists: [1, 2, 3] and [4, 5].
+9. How do you reverse the order of elements in a list?
+10. Count how many times the number 3 appears in the list from question 2.
+11. Replace the second element of the list with the number 7.
+12. Sort the list [3, 1, 4, 1, 5, 9, 2, 6].
+13. Create a list of even numbers from 2 to 10 using a list comprehension.
+14. What is the difference between append() and extend() methods for lists?
+15. Insert the number 8 at index 2 in the list from question 2.
+16. Remove the number 5 from the list using its value.
+17. What does the pop() method do for a list?
+18. Create a copy of a list without modifying the original.
+19. Find the index of the first occurrence of the number 3 in the list from question 2.
+20. Remove all elements from a list.
+21. Check if a list is empty.
+22. Create a new list containing the squares of numbers from 1 to 5 using a loop.
+23. Combine two lists into a list of tuples: [1, 2, 3] and ['a', 'b', 'c'].
+24. Create a list of unique elements from a given list: [1, 2, 2, 3, 4, 4, 5].
+25. Replace all occurrences of the number 2 with 10 in a list.
+26. Join a list of strings into a single string using a space as a separator.
+27. Check if all elements in a list are greater than 10.
+28. Find the maximum and minimum values in a list of numbers.
+29. Create a list that contains the elements of another list in reverse order.
+30. Count the number of even numbers in a list.
+31. Remove the last element from a list using both the pop() method and slicing.
+32. Create a list where each element is squared, only if it's greater than 5.
+33. Find the sum of all numbers in a list.
+34. Check if a list contains only string elements.
+35. Insert the numbers 6, 7, and 8 at the end of a list using a single method.
+36. Remove the duplicates from a list without changing the order.
+37. Find the second largest element in a list.
+38. Replace negative numbers in a list with 0.
+39. Merge two sorted lists into a single sorted list.
+40. Split a string into a list of words.
+41. Convert a list of integers into a comma-separated string.
+42. Shuffle the elements of a list randomly.
+43. Check if a list is a palindrome (reads the same forwards and backwards).
+44. Find the frequency of each element in a list and store it in a dictionary.
+45. Split a list into chunks of a specific size.
+46. Swap the first and last elements of a list.
+47. Create a list of lists (matrix) with 3 rows and 4 columns, initialized to 0.
+48. Convert a list of strings into a single string with spaces between them.
+49. Remove all occurrences of a specific element from a list.
+50. Find the index of the maximum value in a list without using the max() function.
