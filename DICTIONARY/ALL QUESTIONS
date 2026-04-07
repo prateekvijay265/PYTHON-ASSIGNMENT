@@ -1,0 +1,50 @@
+1. How do you create an empty dictionary?
+2. Create a dictionary with the keys 'name' and 'age', and set their values to 'John' and 25.
+3. How do you access the value associated with the key 'age' in the dictionary from question 2?
+4. Add a new key-value pair 'city': 'New York' to the dictionary.
+5. How do you check if a key 'country' is present in the dictionary?
+6. Remove the key-value pair with the key 'age' from the dictionary.
+7. Get a list of all keys in the dictionary.
+8. Get a list of all values in the dictionary.
+9. Create a dictionary with keys 'a', 'b', and 'c', and set their values to [1, 2, 3].
+10. Replace the value associated with the key 'b' with [4, 5, 6].
+11. How do you iterate through all key-value pairs in a dictionary?
+12. Create a dictionary with keys 'name', 'age', and 'city', and their corresponding values.
+13. Merge two dictionaries: {'a': 1, 'b': 2} and {'c': 3, 'd': 4}.
+14. Check if all keys in a dictionary are strings.
+15. Remove all items from a dictionary.
+16. Get the value associated with a key 'salary' with a default value of 0.
+17. Count the number of key-value pairs in a dictionary.
+18. Create a dictionary where keys are strings and values are their lengths: ['apple', 'banana', 'cherry'].
+19. Create a dictionary with keys 'name', 'age', and 'gender', and their corresponding values.
+20. Create a dictionary using a dictionary comprehension that squares numbers from 1 to 5 as keys.
+21. Extract a list of keys from the dictionary in question 20.
+22. Create a nested dictionary representing a person's information with keys 'personal' and 'contact'.
+23. Update the dictionary in question 22 with the person's phone number: '123-456-7890'.
+24. Remove a key 'address' from the nested dictionary in question 22.
+25. Find the key corresponding to the maximum value in a dictionary of numbers.
+26. Create a dictionary with keys as months and values as the number of days in each month.
+27. Create a dictionary with keys 'a', 'b', and 'c', and set their values to [1, 2, 3]. Change the second element of the list under key 'b' to 10.
+28. Find the sum of all values in a dictionary of numbers.
+29. Create a dictionary with keys 'name', 'age', and 'email', and their corresponding values.
+30. Check if a dictionary is empty.
+31. Create a dictionary with keys 'product' and 'price', and their corresponding values.
+32. Find the average value of the numbers in a dictionary.
+33. Create a dictionary where keys are numbers from 1 to 5 and values are their squares.
+34. Extract a list of values from the dictionary in question 33.
+35. Create a dictionary where keys are strings and values are their uppercase equivalents: {'a': 'apple', 'b': 'banana'}.
+36. Check if all values in a dictionary are unique.
+37. Merge two dictionaries, but keep the values from the first dictionary in case of key conflicts.
+38. Create a dictionary where keys are letters and values are their ASCII codes.
+39. Invert the keys and values in a dictionary.
+40. Create a dictionary with keys 'a', 'b', and 'c', and set their values to [1, 2, 3]. Remove the key 'b' from the dictionary.
+41. Find the second most common value in a dictionary.
+42. Create a dictionary with keys 'subject', 'marks', and 'grade', and their corresponding values.
+43. Remove the key-value pair with the lowest key from a dictionary.
+44. Find the difference between two dictionaries: {'a': 1, 'b': 2} and {'b': 2, 'c': 3}.
+45. Check if two dictionaries have the same keys.
+46. Create a dictionary with keys 'name', 'age', and 'address', and their corresponding values.
+47. Sort a dictionary by its keys.
+48. Merge multiple dictionaries into one.
+49. Find the key corresponding to a specific value in a dictionary.
+50. Check if a dictionary contains only numeric values.
