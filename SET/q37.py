@@ -1,0 +1,1 @@
+s={1,2,3,4,6};s={i for i in s if i%3!=0};print(s)

@@ -1,0 +1,1 @@
+st='hello';v='aeiou';s={c for c in st if c in v};print(s)

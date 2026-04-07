@@ -1,0 +1,50 @@
+1. How do you create an empty set?
+2. Create a set containing the numbers 1, 2, 3.
+3. Add the number 4 to the set from question 2.
+4. Remove the number 2 from the set using the remove() method.
+5. Check if an element is present in a set.
+6. Create a new set by merging two sets: {1, 2, 3} and {3, 4, 5}.
+7. Find the union of two sets: {1, 2, 3} and {3, 4, 5}.
+8. Find the intersection of two sets: {1, 2, 3} and {3, 4, 5}.
+9. Find the difference between two sets: {1, 2, 3} and {3, 4, 5}.
+10. Create a set of unique characters from a given string.
+11. Remove all elements from a set using the clear() method.
+12. Create a set using a set comprehension that contains the squares of even numbers from 1 to 10.
+13. Find the maximum and minimum values in a set of numbers.
+14. Check if one set is a subset of another set.
+15. Create a copy of a set without modifying the original.
+16. Remove an element from a set using the discard() method.
+17. Find the symmetric difference between two sets: {1, 2, 3} and {3, 4, 5}.
+18. Iterate through all elements of a set using a for loop.
+19. Check if two sets have any elements in common.
+20. Convert a list into a set, removing duplicate elements.
+21. Remove and return an arbitrary element from a set using the pop() method.
+22. Create a set of prime numbers less than 20 using a loop and condition.
+23. Create a set that contains vowels from a given string using a loop.
+24. Check if a set is empty using the if statement.
+25. Create a set of characters that appear in both of two strings.
+26. Find the length of a set using the len() function.
+27. Update a set with elements from another set using the update() method.
+28. Create a set that contains the characters from a string excluding vowels.
+29. Find the difference between two sets: {1, 2, 3} and {2, 3, 4} using the - operator.
+30. Create a set of lowercase characters that appear in a string using a loop.
+31. Create a set of unique elements from a list of numbers using a loop.
+32. Check if a specific element is not present in a set.
+33. Find the sum of all elements in a set of numbers.
+34. Remove the largest element from a set of numbers.
+35. Create a set of words that appear in a sentence using a loop.
+36. Check if all elements in a set are greater than a certain value.
+37. Remove all elements from a set that are divisible by 3 using a loop.
+38. Create a set of even numbers from 1 to 20 using a loop.
+39. Check if two sets are disjoint (have no elements in common).
+40. Remove and return the smallest element from a set using the pop() method.
+41. Create a set of all factors of a given number using a loop.
+42. Find the common elements among multiple sets.
+43. Remove the specified element from a set using the discard() method.
+44. Create a set of consonants from a given string using a loop.
+45. Calculate the sum of the squares of all even numbers from a set.
+46. Create a set of vowels from a given string using a set comprehension.
+47. Find the index of an element in a set (note: sets are unordered, so they don't have indices).
+48. Create a set that contains the elements present in exactly one of two sets.
+49. Check if a set is a proper subset of another set.
+50. Find the average of elements in a set of numbers.

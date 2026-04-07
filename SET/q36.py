@@ -1,0 +1,1 @@
+s={5,6,7};print(all(i>3 for i in s))

@@ -1,0 +1,1 @@
+s={1,2,3,4};print(sum(i*i for i in s if i%2==0))
