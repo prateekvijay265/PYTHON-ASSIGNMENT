@@ -1,0 +1,1 @@
+# Literals: 10, 'Hello', 3.14

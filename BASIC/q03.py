@@ -1,0 +1,1 @@
+# Python supports procedural, object-oriented, and functional programming.

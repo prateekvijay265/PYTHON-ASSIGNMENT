@@ -1,0 +1,1 @@
+# Python is readable due to simple syntax and indentation.

@@ -1,0 +1,1 @@
+float() converts string to float

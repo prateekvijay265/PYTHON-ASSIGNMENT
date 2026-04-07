@@ -1,0 +1,1 @@
+# PyPy focuses on speed using JIT compilation.

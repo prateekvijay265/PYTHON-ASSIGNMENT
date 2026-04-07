@@ -1,0 +1,1 @@
+# Memory is managed automatically via garbage collection.

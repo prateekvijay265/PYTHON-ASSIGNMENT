@@ -1,0 +1,1 @@
+# Python 3 improved Unicode and removed Python 2 limitations.

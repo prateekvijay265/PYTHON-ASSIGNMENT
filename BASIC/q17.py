@@ -1,0 +1,1 @@
+# Start interactive mode by typing 'python' in terminal.

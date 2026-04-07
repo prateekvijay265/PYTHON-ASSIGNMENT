@@ -1,0 +1,50 @@
+1. What is Python, and how would you describe its main characteristics?
+2. Explain the key reasons why Python is widely used in the programming community.
+3. How does Python support multiple programming paradigms, and what are they?
+4. Discuss the readability and simplicity aspects of Python code. How do they contribute to Python's popularity?
+5. Briefly outline the history of Python and its creator.
+6. Why would you choose Python over other programming languages for a particular project?
+7. List some prominent application areas of Python in the industry.
+8. Describe the role of CPython in the Python ecosystem and its significance as the default implementation.
+9. How does Jython differ from CPython, and where is it commonly used?
+10. Explain the purpose of IronPython and its relationship to the .NET framework.
+11. Discuss the goals and advantages of PyPy as a Python implementation.
+12. How does Python 2 differ from Python 3, and why did the community transition to Python 3?
+13. Explain the concept of Python bytecode and its role in Python's interpretive nature.
+14. What is the Python Virtual Machine (PVM), and how does it execute Python programs?
+15. How does the PVM manage memory during the execution of a Python program?
+16. Explain what interactive mode is in Python and how it differs from script mode.
+17. Demonstrate how you can start the Python interactive mode on your computer.
+18. Why might you use interactive mode for quick code testing and exploration?
+19. Discuss the role of the print() function in Python.
+20. Provide examples of using the print() function with multiple arguments and the sep parameter.
+21. Explain the use of the end parameter in the print() function.
+22. What is the character set used in Python, and is it case-sensitive?
+23. Can you use characters from languages other than English in Python code?
+24. Provide examples of Python keywords and explain their significance in the language.
+25. Are Python keywords case-sensitive? Give an example.
+26. Explain the purpose of comments in Python and provide examples of both single-line and multi-line comments.
+27. How do you comment out multiple lines of code at once in Python?
+28. What are variables in Python, and how are they used to store values?
+29. Are variable names case-sensitive in Python? Give an example.
+30. Define literals in Python and provide examples of different types of literals.
+31. Explain the difference between a numeric literal and a string literal.
+32. Discuss the role of operators in Python and provide examples of arithmetic operators.
+33. Explain the use of the modulo operator (%) and provide an example.
+34. How do you take user input from the console in Python?
+35. Can you provide examples of using the input() function to accept multiple values at once?
+36. Explain the process of converting a string to an integer in Python.
+37. What is the purpose of the int() function in Python, and how is it used for parsing strings?
+38. How do you handle cases where the input string cannot be converted to an integer?
+39. Describe the process of converting a string to a floating-point number in Python.
+40. What is the float() function, and how is it used for parsing strings to floating-point numbers?
+41. Can you use special characters in variable names? Provide an example.
+42. Explain the concept of naming conventions for variables in Python.
+43. Discuss the difference between single and double quotes for defining string literals.
+44. What are the escape characters in Python, and how are they used?
+45. Explain the role of the + operator when concatenating strings.
+46. How would you check the type of a variable in Python?
+47. What is the difference between the / operator and the // operator when performing division?
+48. Explain the use of the % operator in string formatting.
+49. What is the purpose of the += operator in Python?
+50. How do you concatenate strings and numbers in a print statement without using commas?

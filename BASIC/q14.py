@@ -1,0 +1,1 @@
+# PVM executes Python bytecode line by line.
