@@ -1,0 +1,51 @@
+1. What is a function in Python?
+2. How do you define a function in Python?
+3. Explain the difference between built-in functions and user-defined functions.
+4. What is the purpose of the def keyword in Python?
+5. How do you call a function in Python?
+6. Define the parameters of a function.
+7. Explain the concept of a return statement in a function.
+8. How can you pass arguments to a Python function?
+9. What is the difference between positional and keyword arguments?
+10. What is a default parameter in a Python function?
+11. How do you document a function in Python?
+12. What is the purpose of a docstring in a function?
+13. How can you make a function accept a variable number of arguments?
+14. Define a lambda function in Python.
+15. Explain the difference between a global and a local variable in a function.
+16. What is a recursive function in Python?
+17. Write a Python function to calculate the factorial of a number using recursion.
+18. How do you use the global keyword to modify a global variable within a function?
+19.What is variable scope in Python?
+20. Write a function to find the maximum of three numbers in Python.
+21. How do you import and use functions from external modules in Python?
+22. Explain the purpose of the *args and **kwargs parameters in a function.
+23. Write a Python function to check if a number is prime.
+24. Define a generator function in Python.
+25. Explain the concept of a function closure in Python.
+26. How can you define a function that takes an arbitrary number of keyword arguments?
+27. Write a Python function that takes a list of numbers as input and returns a new list containing only the even numbers from the input list.
+28. Write a Python function to reverse a string.
+29. What is a decorator in Python and how do you use it with functions?
+30. Write a function to calculate the Fibonacci sequence up to a given limit.
+31. Explain the concept of function overloading in Python.
+32. How do you raise exceptions from a function in Python?
+33. Write a function to find the common elements between two lists in Python.
+34. What is the purpose of the __main__ block in Python when defining functions?
+35. How can you create a function that accepts a variable number of positional and keyword arguments?
+36. Write a Python function to calculate the area of a circle given its radius.
+37. Explain the concept of a recursive function with a base case.
+38. What is the purpose of the nonlocal keyword in a nested function?
+39. Write a Python function to count the number of vowels in a string.
+40. How do you pass a function as an argument to another function in Python?
+41. Explain the concept of function memoization and how it can improve performance.
+42. Write a function to remove duplicates from a list in Python.
+43. How can you create a function that returns multiple values in Python?
+44. Define a Python function that calculates the average of a list of numbers.
+45. Explain the concept of a lambda function with the map() and filter() functions.
+46. Write a Python function to find the greatest common divisor (GCD) of two numbers.
+47. What is the purpose of the __init__ method in a Python class?
+47. How can you create a function that accepts a variable number of positional and keyword arguments with defaults?
+48. Write a function to check if a string is a palindrome in Python.
+49. Explain the concept of a callback function in Python.
+50. How do you use the assert statement to test functions in Python?
